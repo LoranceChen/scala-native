@@ -78,3 +78,6 @@ updates.](http://twitter.com/scala_native)
 
 Scala Native is distributed under [the Scala license](
 https://github.com/scala-native/scala-native/blob/master/LICENSE).
+
+#About fork
+master branch always sync as scala-native.org's version, myself code at develop branch.
